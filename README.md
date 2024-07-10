@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **retrieval augmented generation**
 
-- 👨‍💻 All of my projects are available at [THIS LINK](cv-belo.vercel.app)
+- 👨‍💻 All of my projects are available at [THIS LINK](https://cv-belo.vercel.app)
 
 - 💬 Ask me about **Machine Learning , Deep Learning , LLMs and Transformers**
 
