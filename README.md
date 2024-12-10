@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning , Deep Learning , LLMs and Transformers**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1aEw8GdcpLtA2odqtHb8TFjTuadPHS_v1/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1yQ2_B5C1jvcT8VpMYLRw7SswMLmXb7NR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
